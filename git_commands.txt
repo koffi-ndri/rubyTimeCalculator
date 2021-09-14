@@ -1,0 +1,12 @@
+Task 1:
+git merge edits
+
+Task 4:
+git add README.md
+
+Task 6:
+git add examples.md
+git commit -m "Resolve merge conflict"
+
+Task 7:
+git branch -d edits
